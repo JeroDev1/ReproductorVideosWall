@@ -1,2 +1,2 @@
 # ReproductorVideosWall
-Codigo de reproductor de videos para cuantro pantalla de video WALL
+Codigo de reproductor de videos para cuatro pantalla de un video WALL
